@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { spacexApiService } from './network/spacexapi.service';
 
 @Component({
   selector: 'app-root',
